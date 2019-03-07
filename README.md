@@ -2,7 +2,6 @@
 A Twitter Bot that tweets jokes from the icanhazdadjoke 
 
 *Cover photo by https://icons8.com/*
-{% soundcloud https://soundcloud.com/mrmindful/mindful-vibes-episode-10-jazz-hop-mix %}
 
 *The purpose of this program was to automate the jokes I have been posting on my facebook account thru twitter. Although I haven't figured out AWS Lambda yet, I believe I'll get there in no time.* 
 
