@@ -1,8 +1,6 @@
 # python-twitter-bot
 A Twitter Bot that tweets jokes from the icanhazdadjoke 
 
-*Cover photo by https://icons8.com/*
-
 *The purpose of this program was to automate the jokes I have been posting on my facebook account thru twitter. Although I haven't figured out AWS Lambda yet, I believe I'll get there in no time.* 
 
 This program is run thru IDLE, which, according to [Wikipedia](https://g.co/kgs/iQ9hDM), is bundled with the Mac OS X Python since 1.5.2b1.
