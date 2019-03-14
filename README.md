@@ -52,9 +52,10 @@ consumer_secret = 'ENTER_YOUR_CONSUMER_SECRET'
 access_token = 'ENTER_YOUR_ACCESS_TOKEN'
 access_token_secret = 'ENTER_YOUR_ACCESS_TOKEN'</pre>
 
-#### Create another new file and import Twython from the twython module
+#### Create another file and import twython from Twython and the requests module
 
-<pre>from Twython import Twython</pre>
+<pre>from twython import Twython
+import requests</pre>
 
 #### Also import the variables from auth.py
 
